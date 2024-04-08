@@ -159,6 +159,7 @@ line-height: 26.31px;
 text-align: center;
 color: #7D7D7D;
 padding-bottom: 199px;
+margin-top: -30px
 
 }
 .title-4{
@@ -205,6 +206,7 @@ font-weight: 400;
 line-height: 26.31px;
 text-align: center;
 color: #7D7D7D;
+margin-top: 16px;
 
 }
 .title-6{
@@ -214,11 +216,76 @@ font-weight: 600;
 line-height: 21.78px;
 text-align: center;
 color: #6B77E5;
-padding-top: 85px;
-margin-bottom: 10px;
+margin-top: 70px;
+
 }
 .logo-3{
-padding-bottom: 58px;
-margin-left: 157px;
+    margin-top: 10px;
+    margin-left: 157px;
+}
+
+
+
+.big-div{
+    width: 1920px;
+    height: 557px;
+background-color: #6B77E5; 
+margin-top: -1500px;  
+
+}
+.hk-01{
+    display: flex;
+    margin-left: 909.5px;
+    margin-right: 908.5;
+    margin-bottom: 392px;
+    margin-top: -400px;
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.78px;
+text-align: left;
+color: #37393F;
+width: 102px;
+height: 22px;
+left: 123.5px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.h1-1{
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.4px;
+text-align: center;
+color: #37393F;
+margin-top: -380px;
+
+}
+.paragraph-4{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 26.31px;
+text-align: center;
+color: #37393F;
+margin-top: 21px;
+}
+.logo-4{
+    margin-left: 928.25px;
+    margin-right: 927.25px;
+    margin-top: 47px;
+}
+.footer-div{
+width: 1220px;
+height: 659px;
+top: 1511px;
+left: 348px;
+gap: 41px;
+opacity: 0px;
+background-color: #7D7D7D;
+margin-left: auto;
+margin-right: auto;
 
 }
