@@ -284,8 +284,64 @@ top: 1511px;
 left: 348px;
 gap: 41px;
 opacity: 0px;
-background-color: #7D7D7D;
 margin-left: auto;
 margin-right: auto;
+
+}
+.small-div{
+width: 348px;
+height: 86px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+.title-7{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.78px;
+text-align: left;
+color: #37393F;
+margin-left: 140px;
+margin-right: 140px;
+width: 84px;
+height: 22px;
+left: 132px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.title-8{
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.4px;
+text-align: center;
+margin-top: 16px;
+
+}
+.pic-div{ 
+width:1220px;
+height: 532px;
+gap: 31px;
+opacity: 0px;
+
+}
+.first-image{
+    margin-right: 20px;
+}
+.second-image{
+margin-right: 20px
+}
+.fisrt-image{
+    width: 341px;
+height: 114px;
+top: 396px;
+left: 439px;
+padding: 24px 69px 24px 69px;
+gap: 10px;
+opacity: 0px;
 
 }
