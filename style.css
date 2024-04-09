@@ -79,6 +79,7 @@ font-size: 40px;
 font-weight: 700;
 line-height: 48.4px;
 text-align: center;
+margin-top: 16px
 
 }
 
@@ -298,7 +299,7 @@ margin-right: auto;
 }
 .title-7{
     font-family: Inter;
-font-size: 18px;
+font-size: 21px;
 font-weight: 500;
 line-height: 21.78px;
 text-align: left;
@@ -322,26 +323,117 @@ text-align: center;
 margin-top: 16px;
 
 }
-.pic-div{ 
-width:1220px;
-height: 532px;
-gap: 31px;
-opacity: 0px;
+.pic-div1{ 
+    width: 386px;
+    height: 532px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #6B77E5;
+    position:relative
+
+
+    
 
 }
-.first-image{
-    margin-right: 20px;
-}
-.second-image{
-margin-right: 20px
-}
-.fisrt-image{
-    width: 341px;
+.sub-1{
+width: 341px;
 height: 114px;
 top: 396px;
-left: 439px;
+left: 22px;
 padding: 24px 69px 24px 69px;
 gap: 10px;
 opacity: 0px;
+background-color: #FFFFFF;
+position:absolute;
+margin-top: 1487px;
+margin-right: 1209px;
+margin-bottom: 153px;
+margin-left: 345px;
 
+
+}
+.title-9{
+    font-family: Poppins;
+font-size: 25px;
+font-weight: 600;
+line-height: 37.5px;
+text-align: center;
+ color: #37393F;
+}
+.title-10{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.33px;
+text-align: center;
+color: #7D7D7D;
+}
+.pic-1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sub-2{
+width: 341px;
+height: 114px;
+top: 396px;
+left: 22px;
+padding: 24px 69px 24px 69px;
+gap: 10px;
+opacity: 0px;
+background-color: #F4F4F4;
+position:absolute;
+margin-top: 1487px;
+margin-left: 760px;
+
+}
+.sub-3{
+    width: 341px;
+    height: 114px;
+    top: 396px;
+    left: 22px;
+    padding: 24px 69px 24px 69px;
+    gap: 10px;
+    opacity: 0px;
+    background-color: red;
+    position:absolute;
+    margin-top: 1487px;
+    margin-left: 1175px;
+    background-color: #F4F4F4;
+    
+    }
+    .title-12{
+        font-family: Poppins;
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 37.5px;
+        text-align: center;
+        color: #37393F;
+           
+    }
+    .title-13{
+        font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.33px;
+text-align: center;
+color: #7D7D7D ;
+
+ }
+.title-11{
+    font-family: Poppins;
+font-size: 25px;
+font-weight: 600;
+line-height: 37.5px;
+text-align: center;
+color: #37393F;
+}
+.title-15{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.33px;
+text-align: center;
+color: #7D7D7D;
 }
