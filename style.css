@@ -5,6 +5,9 @@
 margin-right: auto;
 margin-left: auto;
 margin-top: 53px;
+position: fixed;
+top: 0;
+left: 350px;
 
 
 }
@@ -345,7 +348,7 @@ gap: 10px;
 opacity: 0px;
 background-color: #FFFFFF;
 position:absolute;
-margin-top: 1487px;
+margin-top: 1370px;
 margin-right: 1209px;
 margin-bottom: 153px;
 margin-left: 345px;
@@ -384,7 +387,7 @@ gap: 10px;
 opacity: 0px;
 background-color: #F4F4F4;
 position:absolute;
-margin-top: 1487px;
+margin-top: 1370px;
 margin-left: 760px;
 
 }
@@ -398,8 +401,8 @@ margin-left: 760px;
     opacity: 0px;
     background-color: red;
     position:absolute;
-    margin-top: 1487px;
-    margin-left: 1175px;
+    margin-top: 1370px;
+    margin-left: 1180px;
     background-color: #F4F4F4;
     
     }
